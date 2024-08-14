@@ -3,7 +3,7 @@
 <p align="left">- 👀 I’m interested in technology, front-end development, and creating impactful user experiences.</p>
 <p align="left">- 🌱 I’m currently learning and improving my skills in HTML, CSS, JavaScript, and React.js.</p> 
 <p align="left">- 💞️ I’m looking to collaborate on web development projects, especially those involving front-end technologies.</p>
-<p align="left">- 📫 How to reach me: you can reach me via email at <a href="mailto:yasminsilvadeveloper@gmail.com" target="_blank">yasminsilvadeveloper@gmail.com</a>.</p>
+<p align="left">- 📫 How to reach me: you can reach me via email at <a href="mailto:yasminsilvadeveloper@gmail.com">yasminsilvadeveloper@gmail.com</a>.</p>
 <p align="left">- 😄 Pronouns: She/Her</p>
 <p align="left">- ⚡ Fun fact: I have a background in marketing, which helps me bring a unique perspective to my development projects.</p>
 
