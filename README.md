@@ -1,11 +1,11 @@
-<h1 align="left">👋 Hi, I’m Yasmin!</h1>
+<h2 align="left">👋 Hi, I’m Yasmin!</h2>
 
-<p align="left">- 👀 I’m interested in technology, front-end development, and creating impactful user experiences.</p>
-<p align="left">- 🌱 I’m currently learning and improving my skills in HTML, CSS, JavaScript, and React.js.</p> 
-<p align="left">- 💞️ I’m looking to collaborate on web development projects, especially those involving front-end technologies.</p>
-<p align="left">- 📫 How to reach me: you can reach me via email at <a href="mailto:yasminsilvadeveloper@gmail.com">yasminsilvadeveloper@gmail.com</a>.</p>
-<p align="left">- 😄 Pronouns: She/Her</p>
-<p align="left">- ⚡ Fun fact: I have a background in marketing, which helps me bring a unique perspective to my development projects.</p>
+- 👀 I’m interested in technology, front-end development, and creating impactful user experiences.
+- 🌱 I’m currently learning and improving my skills in HTML, CSS, JavaScript, and React.js.
+- 💞️ I’m looking to collaborate on web development projects, especially those involving front-end technologies.
+- 📫 How to reach me: you can reach me via email at yasminsilvadeveloper@gmail.com.
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I have a background in marketing, which helps me bring a unique perspective to my development projects.
 
 <h2 align="left">Stats</h2>
 
@@ -15,21 +15,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yasminsilva1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yasminsilva1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasminsilva1&radius=16&theme=merko&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<h3 align="left">Contact</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/yasminsilvadev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/_yasminluana/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
-  </a>
 </div>
 
 ###
